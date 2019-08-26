@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://wechat.jsnotary.org/Eapp/_files/ios/phone/eappdemo_2.0.2_20190520.ipa</string>
+                        <string>http://wechat.jsnotary.org/Eapp/_files/ios/phone/eappdemo_2.0.3_20190826.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -40,7 +40,7 @@
                     <key>bundle-identifier</key>
                     <string>com.skytech.eapp.demo</string>
                     <key>bundle-version</key>
-                    <string>2.0.2</string>
+                    <string>2.0.3</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
