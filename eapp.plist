@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://wechat.jsnotary.org/Eapp/_files/ios/phone/eappdemo_2.0.4_20190830.ipa</string>
+                        <string>http://wg.skynjchat.com/Eapp/_files/ios/phone/eappdemo_2.0.4_20190830.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://wechat.jsnotary.org/Eapp/_files/ios/phone/icon.png</string>
+                        <string>http://wg.skynjchat.com/Eapp/_files/ios/phone/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://wechat.jsnotary.org/Eapp/_files/ios/phone/itunes-icon.png</string>
+                        <string>http://wg.skynjchat.com/Eapp/_files/ios/phone/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
